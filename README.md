@@ -1,7 +1,5 @@
 # Django-Tutorial-polls-app
 
-# Django Polls App
-
 This is a simple polling application built using the Django framework. The app allows users to create polls, vote on them, and view results.
 
 ## Features
